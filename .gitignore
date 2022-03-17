@@ -3,7 +3,11 @@ __pycache__
 *.pt
 frames
 *.mp4
+*.gif
 events.out.tfcache*
 .idea/
 runs/
 checkpoint/
+.vscode/
+*.log
+hparam_search_cmds.txt
