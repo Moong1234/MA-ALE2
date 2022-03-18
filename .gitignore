@@ -11,3 +11,4 @@ checkpoint/
 .vscode/
 *.log
 hparam_search_cmds.txt
+raytmp/
